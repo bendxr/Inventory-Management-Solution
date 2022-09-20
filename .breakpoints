@@ -1,0 +1,24 @@
+{
+  "files": {
+    "inventory.py": [
+      {
+        "id": "330b5349-101c-4e07-97f5-0e62d10f4258",
+        "line": 48,
+        "version": 1094,
+        "index": 1274
+      },
+      {
+        "id": "87aed385-8b9d-4c46-b659-b24f7ec3e6a5",
+        "line": 50,
+        "version": 1094,
+        "index": 1309
+      },
+      {
+        "id": "b7794ff7-14a2-4bd2-a465-b5e98d724c3a",
+        "line": 60,
+        "version": 1094,
+        "index": 1608
+      }
+    ]
+  }
+}
